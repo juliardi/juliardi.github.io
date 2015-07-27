@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "juliardi",
-    "repositoryName": "juliardi.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"juliardi","repositoryName":"juliardi.github.io","branch":"master"},"site":{"title":"Juliardi's Blog","description":"One Blog, To Share Them All","url":"https://juliardi.github.io"},"socialnetwork":{"github":"juliardi"},"theme":{"name":"Casper","url":"//juliardi.github.io/themes/Casper"}}
