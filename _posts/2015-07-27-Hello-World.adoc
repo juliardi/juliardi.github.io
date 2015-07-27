@@ -1,4 +1,5 @@
 = Hello World!
+:hp-tags: hello world
 
 Hello World! Right now, i am greeting you from my newly created blog on github.io. Hope i can share many things with you through this blog.
 
